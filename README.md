@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gurman</h1>
+<h1 align="center">Hi 👋, I'm Gurman Garg</h1>
 
 <h3 align="center">
-🚀 MCA AI/ML Student | Python Developer | Future AI Engineer
+🚀 MCA (AI/ML) Student | Building AI Chatbots, ML Models & Full-Stack Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Python+Programmer;Building+Cool+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects;Exploring+Generative+AI+%26+Automation" />
 </p>
 
 ---
@@ -13,11 +13,13 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-🎓 MCA Student at Chandigarh University <br>
-🤖 Learning Artificial Intelligence & Machine Learning <br>
-💻 Passionate about Python & Development <br>
-🚀 Exploring AI Projects and Automation <br>
-🔥 Goal: Become an AI Engineer
+
+🎓 MCA (AI/ML) Student at Chandigarh University <br>
+🤖 Passionate about Artificial Intelligence & Machine Learning <br>
+💻 Building AI Chatbots, ML Models & Full-Stack Applications <br>
+🚀 Exploring Generative AI, APIs & Automation <br>
+🧠 Interested in solving real-world problems using technology <br>
+
 </p>
 
 ---
@@ -26,21 +28,23 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mongodb,mysql,git,github,vscode"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
@@ -50,9 +54,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iggurman&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iggurman&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggurman&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggurman&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -62,7 +66,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iggurman&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iggurman&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iggurman&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -76,20 +90,28 @@
 
 <td width="50%">
 
-<h3 align="center">AI Chatbot</h3>
+<h3 align="center">🤖 Image Recognition Chatbot</h3>
 
 <p align="center">
-AI powered chatbot using Python
+AI chatbot that analyzes uploaded images using Google Gemini API and provides context-aware responses in real time.
+</p>
+
+<p align="center">
+Python • Streamlit • Gemini API
 </p>
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">Face Recognition System</h3>
+<h3 align="center">💳 Credit Card Fraud Detection</h3>
 
 <p align="center">
-Computer vision based attendance system
+Machine learning model trained on real-world transaction datasets to detect fraudulent activities using multiple ML algorithms.
+</p>
+
+<p align="center">
+Python • Scikit-learn • XGBoost
 </p>
 
 </td>
@@ -100,20 +122,28 @@ Computer vision based attendance system
 
 <td width="50%">
 
-<h3 align="center">ML Prediction Model</h3>
+<h3 align="center">🩸 Blood Donation Management System</h3>
 
 <p align="center">
-Machine learning prediction project
+Role-based web application for managing blood donors and recipients with MongoDB Atlas integration.
+</p>
+
+<p align="center">
+Java • JSP • MongoDB Atlas
 </p>
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">🏎 Ferrari Front-End Website</h3>
 
 <p align="center">
-Modern personal portfolio website
+Responsive Ferrari-themed website featuring interactive UI, animations, galleries, and contact forms.
+</p>
+
+<p align="center">
+HTML • CSS • Bootstrap • JavaScript
 </p>
 
 </td>
@@ -128,17 +158,31 @@ Modern personal portfolio website
 
 <p align="center">
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/">
+<a href="https://linkedin.com/in/garggurman">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:garggurman@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/iggurman">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+
+🏅 C# Programming – Infosys <br>
+🏅 React JS – Infosys <br>
+🏅 Energy Literacy – Energy Swaraj Foundation <br>
+🏅 Entrepreneurship with AI <br>
+🏅 Cyber Police Crime Branch Internship
 
 </p>
 
@@ -146,10 +190,14 @@ Modern personal portfolio website
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=iggurman&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=iggurman&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </p>
 
+---
+
 <h3 align="center">
-⭐ "Code. Learn. Build. Repeat." ⭐
+
+⭐ “Code • Learn • Build • Repeat” ⭐
+
 </h3>
